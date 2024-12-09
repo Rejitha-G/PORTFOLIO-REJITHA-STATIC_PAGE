@@ -1,0 +1,45 @@
+
+      body{
+        background-color: rgb(27, 29, 29);
+      }
+    .container{
+     width: 600px;
+     height: 600px;
+     background-color: rgb(2, 20, 20);
+     margin-left: 400px;
+     border-radius: 30px;
+    }
+    .firstdiv{
+       display: grid;
+       grid-template-columns: 1fr 1fr 1fr; 
+    }
+    .image{
+      width: 180px;
+      height: 200px;
+      margin: 10px;
+      border-radius: 30px;
+    }
+    h1{
+      margin-left: 190px;
+      padding-top: 20px;
+      color: aqua;
+    }
+    .container1{
+     width: 600px;
+     height: 320px;
+     background-color: rgb(2, 20, 20);
+     margin-left: 400px;
+     border-radius: 30px;
+     margin-bottom: 30px;
+
+    }
+    .seconddiv{
+      margin-top: 50px;
+      margin-left: 180px;
+    }
+    li{
+      font-size: 30px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: rgb(14, 226, 7);
+    }
+   
